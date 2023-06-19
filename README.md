@@ -10,3 +10,7 @@ Some of them were ported from back when I used Atom.
 ```bash
 vsce package
 ```
+
+# VSCode API reference
+
+[https://code.visualstudio.com/api/references/vscode-api](Link)
